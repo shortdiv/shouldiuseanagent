@@ -1,0 +1,24 @@
+src/style.css
+  3eb8475ed57303fd 24-25,77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.2.7",
+  "base_commit_sha": "7243bb21929b10491f7ca0fb7d104765502ffa22",
+  "prompts": {
+    "3eb8475ed57303fd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e5b1dd0f-ed76-44e1-8352-36ce0bd27207",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Divya",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 1,
+      "accepted_lines": 3,
+      "overriden_lines": 0,
+      "messages_url": "http://localhost:4000/cas/4a3b5c6236b79347d87a061960e92e2ad8ce5722452573dc245869f69545ae89"
+    }
+  }
+}
