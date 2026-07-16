@@ -42,6 +42,7 @@ footer {
 .gimme-verdict {
   color: var(--fg);
   border-color: var(--border);
+  user-select: none;
 }
 
 h1,
