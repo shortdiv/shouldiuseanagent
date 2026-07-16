@@ -115,7 +115,7 @@ body {
   padding: 16px 4vw 0;
   box-sizing: border-box;
   font-family: var(--font-mono);
-  font-size: 11px;
+  font-size: 10px;
   color: var(--text-subtle);
 }
 
